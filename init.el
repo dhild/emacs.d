@@ -1,3 +1,5 @@
+(setq default-directory "F:/dev")
+
 ;;;;
 ;; Packages
 ;;;;
