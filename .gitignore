@@ -1,1 +1,8 @@
 *.elc
+backups
+auto-save-list
+projectile.cache
+projectile-bookmarks.eld
+.recentf
+.smex-items
+places
