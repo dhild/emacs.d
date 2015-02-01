@@ -132,3 +132,7 @@
 ;; Langauage-specific
 (load "setup-clojure.el")
 (load "setup-js.el")
+
+(setq python-shell-interpreter "ipython3")
+(load-file "~/.emacs.d/emacs-for-python-2f284d1/epy-init.el")
+
