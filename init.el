@@ -1,4 +1,4 @@
-(setq default-directory "F:/dev")
+;;(setq default-directory "F:/dev")
 
 ;;;;
 ;; Packages
